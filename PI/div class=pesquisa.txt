@@ -1,0 +1,38 @@
+<div class="pesquisa">
+			<h2>Pesquisa</h2>
+			<form action="#" method="get">
+				<label for="bairro">Bairro:</label>
+				<input type="text" name="bairro" id="bairro" placeholder="Digite o bairro">
+				<label for="tipo">Tipo de escola:</label>
+				<select name="tipo" id="tipo">
+					<option value="">Selecione o tipo</option>
+					<option value="publica">Pública</option>
+					<option value="privada">Privada</option>
+				</select>
+				<button type="submit">Buscar</button>
+			</form>
+		</div>
+		
+	
+			<h2>Resultados da busca</h2>
+			<ul>
+				<li>Escola Inclusiva São Paulo - Bairro A, Pública</li>
+				<li>Escola Inclusiva São Paulo - Bairro B, Privada</li>
+				<li>Escola Inclusiva São Paulo - Bairro C, Pública</li>
+			</ul>
+		</section>
+	</main>
+    <section>
+
+
+<p>Estamos sempre abertos para ouvir suas dúvidas, sugestões ou preocupações. Se você tem algo a compartilhar
+			conosco ou precisa de mais informações sobre nosso site e seus recursos, sinta-se à vontade para entrar em
+			contato conosco.
+
+			Você pode nos telefonar no número: (11) 1234-5678, disponível de segunda a sexta-feira, das 9h às 17h. Além
+			disso, você pode nos enviar um e-mail a qualquer momento no seguinte endereço:
+			contato@nossositeinclusivo.com.br.
+
+			Nossa equipe se esforça para responder todas as mensagens o mais rápido possível e agradecemos
+			antecipadamente por sua paciência e compreensão. Estamos ansiosos para ouvir de você e continuaremos
+			trabalhando para melhor atender às suas necessidades.</p>
